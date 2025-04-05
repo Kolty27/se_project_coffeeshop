@@ -4,6 +4,7 @@
   background-image: url(../images/background_header.svg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   position: relative;
   height: 800px;
   display: flex;
@@ -21,7 +22,6 @@
 .header__title {
   margin: 183px 0 0;
   max-width: 729px;
-  left: 80px;
   font-family: "Inter", "Arial", sans-serif;
   font-weight: 500;
   font-size: 60px;
@@ -40,7 +40,6 @@
 .header__description {
   margin: 28px 0 0;
   max-width: 683px;
-  left: 80px;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;

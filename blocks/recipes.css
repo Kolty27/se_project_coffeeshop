@@ -28,6 +28,7 @@
 }
 
 .recipes__video-caption {
+  margin: 0;
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -39,6 +40,8 @@
 }
 
 .recipes__videos {
+  margin: 0;
+  padding: 0;
   display: flex;
   justify-content: center;
   gap: 40px;
